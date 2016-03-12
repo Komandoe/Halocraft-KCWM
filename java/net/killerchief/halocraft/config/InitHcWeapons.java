@@ -85,7 +85,7 @@ public class InitHcWeapons {
 		BattleRifle.Gravity = 0.004F;
 		BattleRifle.MaxEffectiveTicksAlive = 100;
 		BattleRifle.ProjectileLivingProperties = "null";
-		BattleRifle.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(4, 0, Die)";
+		BattleRifle.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(16, 0, Die)";
 		BattleRifle.ProjectileDragInAir = 0.99F;
 		BattleRifle.ProjectileDragInWater = 0.5F;
 		
@@ -181,7 +181,7 @@ public class InitHcWeapons {
 		AssaultRifle.Gravity = 0.004F;
 		AssaultRifle.MaxEffectiveTicksAlive = 100;
 		AssaultRifle.ProjectileLivingProperties = "null";
-		AssaultRifle.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(3, 0, Die)";
+		AssaultRifle.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(9, 0, Die)";
 		AssaultRifle.ProjectileDragInAir = 0.99F;
 		AssaultRifle.ProjectileDragInWater = 0.5F;
 		
@@ -229,7 +229,7 @@ public class InitHcWeapons {
 		Shotgun.Gravity = 0.004F;
 		Shotgun.MaxEffectiveTicksAlive = 5;
 		Shotgun.ProjectileLivingProperties = "null";
-		Shotgun.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(2, 0, Die)";
+		Shotgun.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(6, 0, Die)";
 		Shotgun.ProjectileDragInAir = 0.96F;
 		Shotgun.ProjectileDragInWater = 0.1F;
 		
@@ -325,7 +325,7 @@ public class InitHcWeapons {
 		Magnum.Gravity = 0.004F;
 		Magnum.MaxEffectiveTicksAlive = 100;
 		Magnum.ProjectileLivingProperties = "null";
-		Magnum.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(8, 0, Die)";
+		Magnum.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(19, 0, Die)";
 		Magnum.ProjectileDragInAir = 0.99F;
 		Magnum.ProjectileDragInWater = 0.5F;
 		
@@ -373,7 +373,7 @@ public class InitHcWeapons {
 		SMG.Gravity = 0.004F;
 		SMG.MaxEffectiveTicksAlive = 80;
 		SMG.ProjectileLivingProperties = "null";
-		SMG.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(2, 0, Die)";
+		SMG.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(8, 0, Die)";
 		SMG.ProjectileDragInAir = 0.99F;
 		SMG.ProjectileDragInWater = 0.5F;
 		
@@ -475,7 +475,7 @@ public class InitHcWeapons {
 		Carbine.Gravity = 0.004F;
 		Carbine.MaxEffectiveTicksAlive = 100;
 		Carbine.ProjectileLivingProperties = "null";
-		Carbine.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(8, 0, Die)";
+		Carbine.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(24, 0, Die)";
 		Carbine.ProjectileDragInAir = 0.99F;
 		Carbine.ProjectileDragInWater = 0.5F;
 		
@@ -523,7 +523,7 @@ public class InitHcWeapons {
 		PlasmaRifle.Gravity = 0.004F;
 		PlasmaRifle.MaxEffectiveTicksAlive = 80;
 		PlasmaRifle.ProjectileLivingProperties = "null";
-		PlasmaRifle.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(4, 0, Die)";
+		PlasmaRifle.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(16, 0, Die)";
 		PlasmaRifle.ProjectileDragInAir = 0.99F;
 		PlasmaRifle.ProjectileDragInWater = 0.5F;
 		
@@ -571,7 +571,7 @@ public class InitHcWeapons {
 		PlasmaPistol.Gravity = 0.004F;
 		PlasmaPistol.MaxEffectiveTicksAlive = 80;
 		PlasmaPistol.ProjectileLivingProperties = "null";
-		PlasmaPistol.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(3, 0, Die)";
+		PlasmaPistol.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(12, 0, Die)";
 		PlasmaPistol.ProjectileDragInAir = 0.99F;
 		PlasmaPistol.ProjectileDragInWater = 0.5F;
 		
@@ -621,7 +621,7 @@ public class InitHcWeapons {
 		Needler.Gravity = 0.004F;
 		Needler.MaxEffectiveTicksAlive = 100;
 		Needler.ProjectileLivingProperties = "null";
-		Needler.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(5, 0, Die)";
+		Needler.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(20, 0, Die)";
 		Needler.ProjectileDragInAir = 0.99F;
 		Needler.ProjectileDragInWater = 0.5F;
 		
@@ -671,7 +671,7 @@ public class InitHcWeapons {
 		BeamRifle.Gravity = 0.004F;
 		BeamRifle.MaxEffectiveTicksAlive = 200;
 		BeamRifle.ProjectileLivingProperties = "null";
-		BeamRifle.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(30, 0, Die)";
+		BeamRifle.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(60, 0, Die)";
 		BeamRifle.ProjectileDragInAir = 0.99F;
 		BeamRifle.ProjectileDragInWater = 0.5F;
 		
@@ -767,7 +767,7 @@ public class InitHcWeapons {
 		Spiker.Gravity = 0.004F;
 		Spiker.MaxEffectiveTicksAlive = 100;
 		Spiker.ProjectileLivingProperties = "null";
-		Spiker.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), Bounce(0.97, 1, ExceededMaxEncounteredEntities(2, Die)), ImpactEntity(5, 0, Die)";
+		Spiker.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), Bounce(0.97, 1, ExceededMaxEncounteredEntities(2, Die)), ImpactEntity(25, 0, Die)";
 		Spiker.ProjectileDragInAir = 0.99F;
 		Spiker.ProjectileDragInWater = 0.5F;
 		
@@ -819,7 +819,7 @@ public class InitHcWeapons {
 		Mauler.Gravity = 0.004F;
 		Mauler.MaxEffectiveTicksAlive = 1;
 		Mauler.ProjectileLivingProperties = "null";
-		Mauler.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(3, 0, Die)";
+		Mauler.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(12, 0, Die)";
 		Mauler.ProjectileDragInAir = 0.96F;
 		Mauler.ProjectileDragInWater = 0.1F;
 		
@@ -1032,7 +1032,7 @@ public class InitHcWeapons {
 		SentinelBeam.Gravity = 0.0F;
 		SentinelBeam.MaxEffectiveTicksAlive = 100;
 		SentinelBeam.ProjectileLivingProperties = "null";
-		SentinelBeam.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(2, 0, Die)";
+		SentinelBeam.ProjectileImpactProperties = "*ImpactBlock(tallgrass+vine, glass+leaves+glass_pane+yellow_flower+red_flower+brown_mushroom+red_mushroom+reeds+deadbush+waterlily+flower_pot+cocoa+double_plant+stained_glass+stained_glass_pane, Die), ImpactEntity(20, 0, Die)";
 		SentinelBeam.ProjectileDragInAir = 1F;
 		SentinelBeam.ProjectileDragInWater = 1F;
 		
